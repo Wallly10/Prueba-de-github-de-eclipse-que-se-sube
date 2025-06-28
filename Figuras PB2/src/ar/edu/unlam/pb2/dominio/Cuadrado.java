@@ -7,5 +7,6 @@ public class Cuadrado extends Rectangulo {
 				new Punto(esquinaInferiorIzquierda.getX() + lado, esquinaInferiorIzquierda.getY() + lado));
 	}
 
-	//asdasdasdasdasd
+	//asdasdasdasdasd123
+// segui agregando
 }
